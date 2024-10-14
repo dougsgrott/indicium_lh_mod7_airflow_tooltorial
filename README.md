@@ -1,5 +1,15 @@
 # Indicium Airflow Hands-on Tutorial
 
+## Contexto
+
+Este repositório é o resultado do Lighthouser Douglas Sgrott em seguir o tutorial de Airflow presente neste, como etapa obrigatória do programa Lighthouse da Indicium e conclusão do Módulo 7 do Ciclo Básico.
+
+Abaixo segue imagens referentes a instalação e utilização de Airflow para o cumprimento das atividades propostas. 
+
+![image](image_1.png)
+
+![image](image_2.png)
+
 ## O Problema
 
 Vamos utilizar o mesmo problema do desafio de data engineering do processo seletivo da indicium:
